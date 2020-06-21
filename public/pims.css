@@ -1,0 +1,58 @@
+
+
+.navbar{
+    width: 60%;
+    border-radius: 30px;
+    top: 86%;
+}
+
+.search-content {
+    font-size: 1.5em;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    /* padding: .5rem .7rem; */
+    /* font-size: .875rem;*/
+    line-height: 1.428571;
+    color: hsla(0, 5%, 5%, 0.8);
+    /* background-color: #408fdcab; */
+    background-clip: padding-box;
+    border: 1px solid #cad1d7;
+    border-radius: 1.25rem;
+    box-shadow: none;
+    /* transition: all .2s cubic-bezier(.68,-.55,.265,1.55);*/
+} 
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.search-box{
+    margin-top: 10px;
+}
+.bg-theme{
+    background-color: #fff;
+}
+.fas{
+    color: #adadad;
+}
+.active-link i{
+    color: rgba(232, 72, 93, 0.85);
+}
+.bg-card{
+    background-color: #d5dae0;
+}
+.marker-btn{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.marker-btn img{
+    width: 50px;
+    height: 50px;
+}
